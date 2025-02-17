@@ -1,0 +1,25 @@
+import { PruColor } from 'common_ui_components';
+
+export const customProgressStepStyles = {
+  stepIndicatorSize: 20,
+  currentStepIndicatorSize: 20,
+  separatorStrokeWidth: 4,
+  currentStepStrokeWidth: 4,
+  stepStrokeWidth: 4,
+  stepIndicatorLabelFontSize: 11,
+  currentStepIndicatorLabelFontSize: 11,
+  labelSize: 11,
+  stepStrokeCurrentColor: PruColor.redLightest,
+  stepStrokeFinishedColor: PruColor.red,
+  stepStrokeUnFinishedColor: PruColor.gray,
+  separatorFinishedColor: PruColor.red,
+  separatorUnFinishedColor: PruColor.lightGrey,
+  stepIndicatorFinishedColor: PruColor.red,
+  stepIndicatorUnFinishedColor: PruColor.white,
+  stepIndicatorCurrentColor: PruColor.red,
+  stepIndicatorLabelCurrentColor: PruColor.red,
+  stepIndicatorLabelFinishedColor: PruColor.red,
+  stepIndicatorLabelUnFinishedColor: PruColor.black,
+  labelColor: PruColor.gray,
+  currentStepLabelColor: PruColor.black,
+};

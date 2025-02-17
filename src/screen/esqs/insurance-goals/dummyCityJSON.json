@@ -1,0 +1,136 @@
+{
+    "SUMATERA_UTARA": [
+        {
+            "key": "Medan",
+            "zipcode": "20101"
+        },
+        {
+            "key": "Pematang Siantar",
+            "zipcode": "21101"
+        },
+        {
+            "key": "Sibolga",
+            "zipcode": "22101"
+        },
+        {
+            "key": "Tanjung Balai",
+            "zipcode": "23101"
+        },
+        {
+            "key": "Binjai",
+            "zipcode": "20102"
+        },
+        {
+            "key": "Tebing Tinggi",
+            "zipcode": "20103"
+        },
+        {
+            "key": "Padang Sidempuan",
+            "zipcode": "22102"
+        },
+        {
+            "key": "Gunung Sitoli",
+            "zipcode": "22103"
+        },
+        {
+            "key": "Serdang Bedagai",
+            "zipcode": "20104"
+        },
+        {
+            "key": "Samosir",
+            "zipcode": "22104"
+        },
+        {
+            "key": "Humbang Hasundutan",
+            "zipcode": "22105"
+        },
+        {
+            "key": "Pakpak Bharat",
+            "zipcode": "22106"
+        },
+        {
+            "key": "Nias Selatan",
+            "zipcode": "22107"
+        },
+        {
+            "key": "Mandailing Natal",
+            "zipcode": "22108"
+        },
+        {
+            "key": "Toba Samosir",
+            "zipcode": "22109"
+        },
+        {
+            "key": "Dairi",
+            "zipcode": "22110"
+        },
+        {
+            "key": "Labuhan Batu",
+            "zipcode": "21111"
+        },
+        {
+            "key": "Asahan",
+            "zipcode": "21112"
+        },
+        {
+            "key": "Simalungun",
+            "zipcode": "21113"
+        },
+        {
+            "key": "Deli Serdang",
+            "zipcode": "20114"
+        },
+        {
+            "key": "Karo",
+            "zipcode": "20115"
+        },
+        {
+            "key": "Langkat",
+            "zipcode": "20116"
+        },
+        {
+            "key": "Nias",
+            "zipcode": "22117"
+        },
+        {
+            "key": "Tapanuli Selatan",
+            "zipcode": "22118"
+        },
+        {
+            "key": "Tapanuli Utara",
+            "zipcode": "22119"
+        },
+        {
+            "key": "Tapanuli Tengah",
+            "zipcode": "22120"
+        },
+        {
+            "key": "Batu Bara",
+            "zipcode": "20121"
+        },
+        {
+            "key": "Padang Lawas Utara",
+            "zipcode": "21122"
+        },
+        {
+            "key": "Padang Lawas",
+            "zipcode": "21123"
+        },
+        {
+            "key": "Labuhanbatu Selatan",
+            "zipcode": "21124"
+        },
+        {
+            "key": "Labuhanbatu Utara",
+            "zipcode": "21125"
+        },
+        {
+            "key": "Nias Utara",
+            "zipcode": "22126"
+        },
+        {
+            "key": "Nias Barat",
+            "zipcode": "22127"
+        }
+    ]
+}
